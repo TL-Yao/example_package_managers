@@ -9,3 +9,4 @@ requests~=2.26.0
 beautifulsoup4~=4.10.0
 /path/to/local/package
 git+https://github.com/user/repo@branch
+
